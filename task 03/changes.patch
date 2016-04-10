@@ -1,0 +1,11 @@
+--- makeold	2016-02-28 16:10:18.282785644 +0530
++++ makenew	2016-02-28 16:12:18.410787065 +0530
+@@ -1,7 +1,7 @@
+ VERSION = 4
+ PATCHLEVEL = 5
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc5
++EXTRAVERSION = -eudyptula
+ NAME = Blurry Fish Butt
+ 
+ # *DOCUMENTATION*
